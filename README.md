@@ -1,2 +1,4 @@
-# GeoLiteCityDB
-GeoLiteCityDB is a daabase of country, code, continent, posal, time- zone etc.
+# GeoLiteCity.Dat
+GeoLiteCity.Dat For Nginx form http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
+
+Now vista https://www.miyuru.lk/geoiplegacy 
